@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+# resultados regenerables de las demos (las figuras y tablas de salida/ sí se guardan)
+salida/archivo_*
+salida/audio_*.wav
